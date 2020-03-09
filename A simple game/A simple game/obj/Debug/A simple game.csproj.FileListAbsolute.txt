@@ -1,0 +1,9 @@
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A simple game.csprojAssemblyReference.cache
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A_simple_game.Form1.resources
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A_simple_game.Properties.Resources.resources
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A simple game.csproj.GenerateResource.cache
+D:\SPCOM\public comm\A simple game\A simple game\bin\Debug\A simple game.exe.config
+D:\SPCOM\public comm\A simple game\A simple game\bin\Debug\A simple game.exe
+D:\SPCOM\public comm\A simple game\A simple game\bin\Debug\A simple game.pdb
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A simple game.exe
+D:\SPCOM\public comm\A simple game\A simple game\obj\Debug\A simple game.pdb
