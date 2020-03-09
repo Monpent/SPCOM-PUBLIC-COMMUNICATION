@@ -253,7 +253,7 @@ namespace A_simple_game
             }
             else if (clickCount == 10)
             {
-                mainTextBox.Text = "The game that you played is a little branch called the ‘Game Theory’. John Von Neuman, the physicist and mathematician who built the framework of quantum mechanism, was also the first to build the field of the game theory. Later, the game theory was developed by John Nash, which won him a Nobel Memorial Prize in Economic Sciences in 1994. ";
+                mainTextBox.Text = "The game that you played is a little branch called the ‘Game Theory’ (v. Neumann, 1928). John Von Neuman, the physicist and mathematician who built the framework of quantum mechanism, was also the first to build the field of the game theory. Later, the game theory was developed by John Nash, which won him a Nobel Memorial Prize in Economic Sciences in 1994.";
             }
             else if (clickCount == 11)
             {
@@ -358,7 +358,7 @@ namespace A_simple_game
             }
             else if (clickCount == 21)
             {
-                mainTextBox.Text = "Eventually, they will reach the agreement without the best location but with the easiest to compete with others.";
+                mainTextBox.Text = "Eventually, they will reach the agreement without the best location but with the easiest to compete with others. The choice they make may not have a payoff but to avoid the potential consumer lost (Carmona & Podczeck, 2009).";
                 mainTextBox.Height = 520;
                 bobPB.Visible = false;
                 alicePB1.Visible = false;
@@ -368,7 +368,7 @@ namespace A_simple_game
             }
             else if (clickCount == 22)
             {
-                mainTextBox.Text = "The agreement is called Nash equilibrium.";
+                mainTextBox.Text = "The agreement is called Nash equilibrium (Osborne & Rubinstein, 1994). ";
             }
             else if (clickCount == 23)
             {
@@ -384,7 +384,7 @@ namespace A_simple_game
             }
             else if (clickCount == 26)
             {
-                mainTextBox.Text = "Prisoner’s Dilemma explains why two completely rational people may not make the most rational decision. Hence, game theory plays a very important roles in our life.";
+                mainTextBox.Text = "Prisoner’s Dilemma explains why two completely rational people may not make the most rational decision. Hence, game theory plays a very important roles in our life (Fehr & Fischbacher, 2003).";
             }
             else if (clickCount == 27)
             {
